@@ -1,2 +1,2 @@
 # Spotify
-Web Player Music for Everyone
+Web Player: Music for Everyone
